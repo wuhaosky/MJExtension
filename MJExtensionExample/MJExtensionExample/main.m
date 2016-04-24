@@ -5,7 +5,7 @@
 //  Created by MJ Lee on 14-5-21.
 //  Copyright (c) 2014年 小码哥. All rights reserved.
 //
-/**
+/**哈哈哈
  MJ友情提醒：
  1.MJExtension是一套“字典和模型之间互相转换”的轻量级框架
  2.MJExtension能完成的功能

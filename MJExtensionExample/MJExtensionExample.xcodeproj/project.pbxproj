@@ -28,6 +28,7 @@
 		2D9CAF2B192FA6020011F500 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 2D9CAF2A192FA6020011F500 /* Foundation.framework */; };
 		2D9CAF2E192FA6020011F500 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 2D9CAF2D192FA6020011F500 /* main.m */; };
 		2D9CAF32192FA6020011F500 /* MJExtensionExample.1 in CopyFiles */ = {isa = PBXBuildFile; fileRef = 2D9CAF31192FA6020011F500 /* MJExtensionExample.1 */; };
+		6808D33B1CCCB25D00862248 /* person.m in Sources */ = {isa = PBXBuildFile; fileRef = 6808D33A1CCCB25D00862248 /* person.m */; };
 		89568B751B1B3EAE00B1FACA /* CoreData.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 89568B741B1B3EAE00B1FACA /* CoreData.framework */; };
 /* End PBXBuildFile section */
 
@@ -88,6 +89,8 @@
 		2D9CAF2D192FA6020011F500 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
 		2D9CAF30192FA6020011F500 /* MJExtensionExample-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "MJExtensionExample-Prefix.pch"; sourceTree = "<group>"; };
 		2D9CAF31192FA6020011F500 /* MJExtensionExample.1 */ = {isa = PBXFileReference; lastKnownFileType = text.man; path = MJExtensionExample.1; sourceTree = "<group>"; };
+		6808D3391CCCB25D00862248 /* person.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = person.h; sourceTree = "<group>"; };
+		6808D33A1CCCB25D00862248 /* person.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = person.m; sourceTree = "<group>"; };
 		89568B741B1B3EAE00B1FACA /* CoreData.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreData.framework; path = System/Library/Frameworks/CoreData.framework; sourceTree = SDKROOT; };
 /* End PBXFileReference section */
 
@@ -191,6 +194,8 @@
 				2D2ABF0B1A7127DC0016C673 /* main.h */,
 				2D9CAF31192FA6020011F500 /* MJExtensionExample.1 */,
 				2D9CAF2F192FA6020011F500 /* Supporting Files */,
+				6808D3391CCCB25D00862248 /* person.h */,
+				6808D33A1CCCB25D00862248 /* person.m */,
 			);
 			path = MJExtensionExample;
 			sourceTree = "<group>";
@@ -260,6 +265,7 @@
 				2D6CAFFC1A5AA34800E2BA5E /* Student.m in Sources */,
 				2D4A0BF91B25615700D323A7 /* MJFoundation.m in Sources */,
 				2D4A0BFB1B25615700D323A7 /* MJType.m in Sources */,
+				6808D33B1CCCB25D00862248 /* person.m in Sources */,
 				2D4A0BFA1B25615700D323A7 /* MJProperty.m in Sources */,
 				2D4A0BFF1B25615700D323A7 /* NSString+MJExtension.m in Sources */,
 				2D6CAFF71A5AA0BB00E2BA5E /* Status.m in Sources */,
